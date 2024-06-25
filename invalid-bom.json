@@ -1,0 +1,30 @@
+{
+    "bomFormat" : "CycloneDX",
+    "specVersion" : "1.5",
+    "serialNumber" : "urn:uuid:1270d235-485f-4736-a574-7d4cbac62537",
+    "version" : 1,
+    "components" : [
+      {
+        "group" : "log4j",
+        "name" : "log4j",
+        "version" : "1.4.196",
+        "licenses" : [
+          {
+            "license" : {
+              "id" : "MPL-2.0"
+            }
+          }
+        ],
+        "hashes": [
+            {
+              "alg": "FOO",
+              "content": "3942447fac867ae5cdb3229b658f4d48"
+            }
+        ],
+        "purl" : "pkg:maven/log4j/log4j@1.2.8?type=jar",
+        "modified" : false,
+        "type" : "library",
+        "bom-ref" : "3f51629d-5b14-4a98-9f5b-3e0a489288b4"
+      }
+    ]
+  }
