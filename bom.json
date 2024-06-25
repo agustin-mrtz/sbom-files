@@ -11,13 +11,7 @@
         "licenses" : [
           {
             "license" : {
-              "id" : "MPL-2.0",
-              "properties" : [
-                {
-                  "name" : "identificationSources",
-                  "value" : "SBOM,Sonatype"
-                }
-              ]
+              "id" : "MPL-2.0"
             }
           }
         ],
